@@ -1,0 +1,15 @@
+.idea
+*~
+local_settings.py
+*.pyc
+db.sqlite3
+build
+build/*
+db.sqlite3
+db.sqlite3-journal
+static/*
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.elasticbeanstalk
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

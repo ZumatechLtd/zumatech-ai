@@ -1,0 +1,6 @@
+name,max_hours_per_week,max_hours_per_day,start_time,end_time,roles
+steve,8,8,09:00,17:00,worker
+mary,8,8,09:00,17:00,worker
+john,8,8,09:00,17:00,worker
+mike,8,8,09:00,17:00,worker
+claire,8,8,09:00,17:00,worker
